@@ -1,12 +1,12 @@
-📖 Python_Customer-Support-Ticket-Analyzer.
+📘 Python_Customer-Support-Ticket-Analyzer.
 To analyze customer support data and extract meaningful insights that help improve service quality, response time, and customer satisfaction
 
-📖 Project Overview
+📌 Project Overview
 * Built a Python-based Ticket Analysis System to store, clean, and analyze customer support tickets.
 * Implemented data cleaning, keyword analysis, and priority insights to identify common issues and
 improve service quality.
 
-📊 Project Objective
+🎯 Project Objective
 * To analyze customer support data and extract meaningful insights that help improve service quality,
 response time, and customer satisfaction.
 
@@ -65,7 +65,7 @@ overall customer satisfaction.
 * Provide technical training for support agents
 * Improve communication quality with customers
 
-💡 Conclusion
+📚 Conclusion
 * The Ticket Analysis System successfully identified key patterns in customer issues, highlighting that
 high-priority and performance-related problems (slow response, technical failures) are the main
 concerns.
